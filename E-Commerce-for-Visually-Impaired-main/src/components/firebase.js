@@ -4,14 +4,14 @@ import { getFirestore, collection, addDoc, getDocs, query, doc, updateDoc, where
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyAiNEEnnJOiwhpXoIaRagEnWpbh6J2sK0U",
-  authDomain: "e-commerce-website-69.firebaseapp.com",
-  projectId: "e-commerce-website-69",
-  storageBucket: "e-commerce-website-69.appspot.com",
-  messagingSenderId: "218673752279",
-  appId: "1:218673752279:web:7be5b2e7a2c4e02bc56892"
-};
+// const firebaseConfig = {
+//   apiKey: "*********",
+//   authDomain: "e-commerce-website-69.firebaseapp.com",
+//   projectId: "e-commerce-website-69",
+//   storageBucket: "e-commerce-website-69.appspot.com",
+//   messagingSenderId: "218673752279",
+//   appId: "1:218673752279:web:7be5b2e7a2c4e02bc56892"
+// };
 function databaseProducts(){
   
 }
