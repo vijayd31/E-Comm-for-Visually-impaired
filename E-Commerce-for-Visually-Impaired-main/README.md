@@ -4,9 +4,9 @@ Built an e-commerce website especially for the visually impaired people.
 
 ## Team
 
-1. Kartik Menon
-2. Param Kothari
-3. Kashish Hemrajani
+1. Vijay Kumar
+2. Nifaz Ahamed
+3. Owsikan
 
 ## Features of the website
 
